@@ -6,3 +6,5 @@
   - now hackers can try to exploit by sending many requests to match the auto generated OTPs
   - so should be heavily rate limited like 1-2/min
 - read about various status codes
+
+# DDOS and Captchas
